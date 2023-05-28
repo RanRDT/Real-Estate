@@ -1,0 +1,25 @@
+
+
+#about-section{
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+}
+
+#about-us-tite{
+    display: flex;
+    justify-content: center;
+    margin: 100px 200px 50px 200px;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    margin: 100px 100px 50px 100px;
+    text-align: center;
+
+}
+
+.about-text{
+   color: white;
+}
